@@ -1,3 +1,6 @@
+# 📖 SQL 정리
+✅ [최대/최소 구하기(ORDER BY + LIMIT 1 vs MAX, MIN)](https://github.com/Han00903/SQL/blob/main/%EB%82%B4%EC%9A%A9%EC%A0%95%EB%A6%AC/%EC%B5%9C%EB%8C%80%EC%B5%9C%EC%86%8C%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
+
 # 📖 SQL
 ## ✅ 특정 월 찾기
 - MONTH(컬럼명) = 값
