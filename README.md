@@ -5,6 +5,6 @@
   - ex. WHERE MONTH(order_date) = 3 (3월 데이터 조회)
     
 ## ✅ 특정 문자열 포함 검색(LIKE)
-- 컬럼명 LIKE '문자%'
-  - 특정 문자열로 시작하는 데이터 검색
-  - WHERE address LIKE '서울%' (주소가 "서울"로 시작하는 데이터 조회)
+- 컬럼명 LIKE '%문자%'
+  - 특정 문자열이 포함된 데이터 검색
+  - ex. WHERE address LIKE '%서울%' (주소에 "서울"이 포함된 데이터 조회)
